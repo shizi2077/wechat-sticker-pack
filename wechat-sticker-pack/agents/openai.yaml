@@ -1,0 +1,7 @@
+interface:
+  display_name: "微信表情工坊"
+  short_description: "制作角色一致、主题自然差异化且可校验的微信表情包"
+  default_prompt: "使用 $wechat-sticker-pack 为这个角色规划一套主题一致、姿势自然差异化的微信表情包，并检查上架规格。"
+
+policy:
+  allow_implicit_invocation: true
